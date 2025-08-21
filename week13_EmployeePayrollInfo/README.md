@@ -22,18 +22,31 @@ This program demonstrates **object-oriented programming** in Java by modeling ba
   
 ## Example Run
 Enter Employee ID: 12345
+
 Enter Last Name: Smith
+
 Enter Phone Number: 555-1234
+
 Enter Hours Worked: 40
+
 Enter Hourly Wage: 15
+
 ID NUM: 12345
+
 LAST NAME: Smith
+
 TELEPHONE #: 555-1234
+
 HOURS WORKED: 40.00
+
 HOURLY WAGE : $15.00
+
 Salary is $606.00
+
 Would you like to enter another employee? (yes/no): no
+
 All employee data entered. Program ended.
+
 
 ## How to Compile and Run
 This program was developed and tested in **IntelliJ IDEA**. It should also work in other IDEs or from the command line.
