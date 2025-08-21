@@ -37,13 +37,19 @@ The labs focus on **basic Java programming concepts**, including:
 - **Description:** Lets the user enter their own menu items and prices for beverages, appetizers, main meals, and desserts. Totals are calculated based on user input.  
 - **Concepts:** Arrays, loops, methods returning totals, `Scanner` buffer handling, static methods.  
 - **Special Notes:** Shows how to dynamically store user input in arrays rather than using fixed menus.  
-- **File:** `RESTAURANT_UserInput.java` (or same `RESTAURANT.java` updated)  
+- **File:** `RESTAURANT.java` (or same `RESTAURANT.java` updated)  
 
 ### week11_BasicLibrary - Library Management System
 - **Description:** Simple library program allowing the user to add books, print book information, and copy books into a separate array.  
 - **Concepts:** Arrays for structured data storage, object-oriented design, menu-driven program, input handling with `Scanner`, do-while loops.  
 - **Special Notes:** Demonstrates CRUD-like operations (Create, Read, Copy) and multiple loops for menu interaction.  
-- **File:** `Library.java`  
+- **File:** `Library.java`
+
+### week13_EmployeePayrollInfo – Employee Payroll Program
+- **Description:** Models basic employee payroll using object-oriented programming. Users enter employee details, and the program calculates salaries with conditional raises. Multiple employees can be entered until the user chooses to stop.  
+- **Concepts:** Classes & objects (`Employee` class), methods (`empDisplay()`, `empSalary()`, `empData()`, `Run()`), loops (do-while), input validation, string handling (`.equals()`, `.trim().toLowerCase()`), numeric formatting with `DecimalFormat`.  
+- **Special Notes:** Demonstrates conditional logic for raises, multiple object handling, and formatted output for salaries.  
+- **File:** `Main.java`  
 
 ---
 
