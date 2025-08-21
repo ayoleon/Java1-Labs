@@ -51,6 +51,16 @@ The labs focus on **basic Java programming concepts**, including:
 - **Special Notes:** Demonstrates conditional logic for raises, multiple object handling, and formatted output for salaries.  
 - **File:** `Main.java`  
 
+### week7_Investments - Investments Program
+- **Description:** This program models a simple investment system where a user can manage **stocks** or **CDs (Certificates of Deposit)**. Users enter account details, choose an investment type, and input relevant data to calculate balances and returns.  
+- **Concepts:**  
+  - Classes & inheritance (`Stocks` and `CDs` extend `Investments`)  
+  - Methods for calculations and displaying information (`StockPositions()`, `CDPositions()`)  
+  - Conditional logic for rate calculations and menu selection  
+  - User input handling with `Scanner`  
+  - Numeric formatting with `DecimalFormat`  
+- **Special Notes:** Demonstrates inheritance, user-driven menu selection, and financial calculations with formatted output.  
+- **File:** `Investments.java`  
 ---
 
 ## How to Run
