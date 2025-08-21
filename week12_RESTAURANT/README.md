@@ -1,4 +1,4 @@
-# Restaurant Ordering System  
+# Restaurant Ordering System (Version with Predefined Menus/Arrays) 
 
 ## Overview  
 This program simulates a restaurant ordering system using **Java classes, arrays, and methods**.  
@@ -39,7 +39,8 @@ After the selections, the program calculates a **bill** with an option to add a 
 4. The user is asked if they want to leave a **tip**.  
 5. The program displays the **final total**, properly formatted.  
 
-## Example Run  
+## Example Run 
+```text
 --- Welcome to Restaurant Order #1 ---
 Would you like a (1) Soft Drink or (2) Spirit?
 1
@@ -74,7 +75,7 @@ Y
 Enter tip amount:
 10
 Your final total is: $76.48
-
+```
 ---
 ## Files  
 - **RESTAURANT.java**  
