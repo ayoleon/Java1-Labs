@@ -83,8 +83,7 @@ Y
 Enter tip amount:
 20
 Your final total is: $187.21
-
----
+```
 
 ## How to Run  
 This program was **developed, compiled, and tested in IntelliJ IDEA**.  
